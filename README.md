@@ -1,4 +1,4 @@
-In the project directory, run:
+In the project directory, clone repository and run:
 
 ### `npm start`
 
