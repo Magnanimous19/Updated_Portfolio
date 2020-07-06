@@ -1,7 +1,7 @@
 In the project directory, clone repository and run:
 
 ### `Guide`
-1. Open to project folder, open terminal, enter: npm start
+1. Open to project folder, open terminal, enter: `npm start`
 2. Runs the app in the development mode.<br />
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
