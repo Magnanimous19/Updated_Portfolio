@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Updated_Portfolio/static/css/main.a45f678e.chunk.css",
+    "main.js": "/Updated_Portfolio/static/js/main.fbcdf081.chunk.js",
+    "main.js.map": "/Updated_Portfolio/static/js/main.fbcdf081.chunk.js.map",
+    "runtime-main.js": "/Updated_Portfolio/static/js/runtime-main.ed608aed.js",
+    "runtime-main.js.map": "/Updated_Portfolio/static/js/runtime-main.ed608aed.js.map",
+    "static/js/2.a6fe42df.chunk.js": "/Updated_Portfolio/static/js/2.a6fe42df.chunk.js",
+    "static/js/2.a6fe42df.chunk.js.map": "/Updated_Portfolio/static/js/2.a6fe42df.chunk.js.map",
+    "index.html": "/Updated_Portfolio/index.html",
+    "precache-manifest.e6867ae698321d8339309cacede9efcb.js": "/Updated_Portfolio/precache-manifest.e6867ae698321d8339309cacede9efcb.js",
+    "service-worker.js": "/Updated_Portfolio/service-worker.js",
+    "static/css/main.a45f678e.chunk.css.map": "/Updated_Portfolio/static/css/main.a45f678e.chunk.css.map",
+    "static/js/2.a6fe42df.chunk.js.LICENSE.txt": "/Updated_Portfolio/static/js/2.a6fe42df.chunk.js.LICENSE.txt",
+    "static/media/LIRIbot.png": "/Updated_Portfolio/static/media/LIRIbot.9851f2fd.png",
+    "static/media/me.jpg": "/Updated_Portfolio/static/media/me.0ee5a875.jpg",
+    "static/media/project1.png": "/Updated_Portfolio/static/media/project1.bfce7a88.png",
+    "static/media/resume.pdf": "/Updated_Portfolio/static/media/resume.df2a8845.pdf",
+    "static/media/train.png": "/Updated_Portfolio/static/media/train.0824c898.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed608aed.js",
+    "static/js/2.a6fe42df.chunk.js",
+    "static/css/main.a45f678e.chunk.css",
+    "static/js/main.fbcdf081.chunk.js"
+  ]
+}
